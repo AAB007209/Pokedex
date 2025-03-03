@@ -1,5 +1,11 @@
 # Pokedex
-A React project built to learn **TypeScript** basics and apply some React concepts. 
+Pokedex is a React project built to learn TypeScript basics and explore key React concepts. Users can search for Pokémon and view detailed information. 
+
+### Screenshots
+
+![Initial Screen Image](./src/assets/Screen-1.png)
+
+![Searched Result Image](./src/assets/Screen-2.png)
 
 ### React Concepts Covered:
 
